@@ -86,7 +86,7 @@ function orderItem(itemID){
 </script>
 <html>
 <head>
-	<title>Microservices Sample</title>
+	<title>Microservices Sample 12</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 	<link rel="stylesheet" href="style.css">
 </head>
